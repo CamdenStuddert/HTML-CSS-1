@@ -1,0 +1,62 @@
+
+#Right {
+    float: right;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 40px;
+}
+
+#Left {
+    float: left;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 40px;
+}
+
+#pic1 {
+    margin: 15px 70px;
+    float: right;
+    /* height: 200px;
+    width: 300px; */
+    width: 350px;
+    height: auto;
+    border: 3px solid black;
+}
+#pic2 {
+    margin: 15px 50px;
+    float: left;
+    /* height: 200px;
+    width: 300px; */
+    width: 300px;
+    height: auto;
+    border: 3px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+    background-color: white;
+}
+
+p {
+    background-color: white;
+}
+
+ul {
+    background-color: white;
+}
+
+li {
+    background-color: white;
+}
+
+*{
+    background-color: lightgrey;
+}
